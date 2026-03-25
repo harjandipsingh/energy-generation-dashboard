@@ -35,4 +35,4 @@ This project explores how energy is generated, distributed, and consumed across 
 ## Author
 **Harjandip Singh**
 MIS Student — George Mason University
-[LinkedIn](www.linkedin.com/in/harjandip-singh)
+[LinkedIn](https://www.linkedin.com/in/harjandip-singh)
